@@ -1,0 +1,27 @@
+
+img {
+  width: 600px;
+  height: auto;
+}
+
+div {
+  font-family: "New Time Roman";
+  background-color: bisque;
+}
+
+.section-cero {
+  background-color: aquamarine;
+}
+
+.section-uno {
+  background-color: aqua;
+}
+
+.section-dos {
+  background-color: darkcyan;
+}
+
+.section-tres {
+  background-color: darkturquoise;
+}
+
